@@ -1,1 +1,1 @@
-Store assets for project pages.
+Store assets for project pages
